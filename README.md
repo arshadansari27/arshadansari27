@@ -18,6 +18,15 @@ Python (15+ yrs) · Dagster · Polars · DuckDB · ClickHouse · FastAPI · Post
 
 I share engineering lessons and observations on [LinkedIn](https://www.linkedin.com/in/mohammed-arshad-ansari/) and [X](https://twitter.com/arshadansari27).
 
+### Hire me
+
+I take on a small number of engagements through [Hikmah Technologies](https://hikmahtechnologies.com/) — production AI on your own data:
+
+- [Fractional data engineer](https://hikmahtechnologies.com/fractional-data-engineer/) — pipelines, a warehouse, dashboards your team can trust, part-time.
+- [AI automation engineer](https://hikmahtechnologies.com/ai-automation-engineer/) — approval-gated LLM workflows over your data ([AEGIS](https://github.com/hikmahtech/aegis) is the open-source working example).
+
+Free, no signup: the [data platform teardown](https://hikmahtechnologies.com/data-platform-teardown/) and the [AI workflow teardown](https://hikmahtechnologies.com/ai-workflow-teardown/) — the questions I ask before an audit or an LLM workflow goes to production.
+
 ### Get in touch
 
 Consulting inquiries: arshad@hikmahtechnologies.com
