@@ -18,6 +18,7 @@ Python (15+ yrs) · Dagster · Polars · DuckDB · ClickHouse · FastAPI · Post
 ### Writing
 
 - **[Local-First Analytics](https://www.amazon.com/dp/B0FVMMKN94)** — my book on running analytics at warehouse speed without renting a cloud warehouse.
+- **[From Stranger to Sold](https://www.strangertosold.com/)** — my other book, for people who can build but find selling opaque. It maps the nine stages a stranger walks before buying, on the argument that upstream problems masquerade as downstream ones: weak positioning looks like a lead problem. Free, no signup — a [5-minute test](https://www.strangertosold.com/) that scores all nine and names your weakest, the [first chapter](https://www.strangertosold.com/chapter-1), and [field notes](https://www.strangertosold.com/learn) diagnosing one symptom each.
 - Engineering lessons and observations on [LinkedIn](https://www.linkedin.com/in/mohammed-arshad-ansari/) and [X](https://twitter.com/arshadansari27).
 
 ### Hire me
