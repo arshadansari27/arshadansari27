@@ -26,7 +26,7 @@ Python (15+ yrs) · Dagster · Polars · DuckDB · ClickHouse · FastAPI · Post
 I take on a small number of engagements through [Hikmah Technologies](https://hikmahtechnologies.com/) — production AI on your own data:
 
 - [Fractional data engineer](https://hikmahtechnologies.com/fractional-data-engineer/) — pipelines, a warehouse, dashboards your team can trust, part-time.
-- [AI automation engineer](https://hikmahtechnologies.com/ai-automation-engineer/) — approval-gated LLM workflows over your data ([AEGIS](https://github.com/hikmahtech/aegis) is the open-source working example).
+- [AI automation engineer](https://hikmahtechnologies.com/ai-automation-engineer/) — approval-gated LLM workflows over your data ([AEGIS](https://hikmahtechnologies.com/aegis/) is the working example; its first version is open source and archived).
 
 Free, no signup: the [data platform teardown](https://hikmahtechnologies.com/data-platform-teardown/) and the [AI workflow teardown](https://hikmahtechnologies.com/ai-workflow-teardown/) — the questions I ask before an audit or an LLM workflow goes to production. How engagements run — hours, payment, contracts — is written down at [how I work](https://hikmahtechnologies.com/how-i-work/).
 
